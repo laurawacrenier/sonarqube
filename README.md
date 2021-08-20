@@ -81,4 +81,4 @@ Copyright 2008-2020 SonarSource.
 Licensed under the [GNU Lesser General Public License, Version 3.0](https://www.gnu.org/licenses/lgpl.txt)
 
 ---
----
+----
